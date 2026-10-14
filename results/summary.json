@@ -1,0 +1,14 @@
+{
+  "fs_hz": 16384,
+  "fft_length": 2048,
+  "n_taps": 32,
+  "bin_hz": 8.0,
+  "dc_gain": 0.9698274848610058,
+  "gain_400hz": 1.0247788398464939,
+  "atten_3khz_db": -46.05487813359315,
+  "minus3db_hz": 858.0000000000001,
+  "worst_attenuation_above_2500hz_db": -43.098104402326946,
+  "group_delay_samples": 15.5,
+  "group_delay_ms": 0.946044921875,
+  "note": "Host reproduction of firmware computation; not hardware measurements."
+}
